@@ -1,7 +1,7 @@
 #include <GL/gl.h>
 #include <GL/glut.h>
 #include <stdlib.h>
-
+//Cambio de archivo
 void init(void)
 {   //Ubicamos la fuente de luz en un punto
 	GLfloat punto_luz[]={3,-1,5};
